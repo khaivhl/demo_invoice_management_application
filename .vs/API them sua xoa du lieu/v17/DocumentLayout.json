@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\migrations\\20231005093438_update_v.4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\migrations\\20231005093438_update_v.4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\iservices\\apiiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\iservices\\apiiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\helper\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\helper\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\services\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\entities\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\entities\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\entities\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\entities\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|d:\\c#\\api\\web api\\api them sua xoa du lieu\\api them sua xoa du lieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEDC53-5736-440B-9375-96C5A602D4D3}|API them sua xoa du lieu\\API them sua xoa du lieu.csproj|solutionrelative:api them sua xoa du lieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:24:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:24:08.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20231005093438_update_v.4.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Migrations\\20231005093438_update_v.4.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Migrations\\20231005093438_update_v.4.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Migrations\\20231005093438_update_v.4.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Migrations\\20231005093438_update_v.4.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:23:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\HoaDon.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Entities\\HoaDon.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\HoaDon.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Entities\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APIServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Services\\APIServices.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Services\\APIServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Services\\APIServices.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Services\\APIServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Entities\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Entities\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Helper\\Pagination.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Helper\\Pagination.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Helper\\Pagination.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Helper\\Pagination.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Helper\\PageResult.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Helper\\PageResult.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Helper\\PageResult.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Helper\\PageResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIIServices.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\IServices\\APIIServices.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\IServices\\APIIServices.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\IServices\\APIIServices.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\IServices\\APIIServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\SanPham.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Entities\\SanPham.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Entities\\SanPham.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Entities\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Program.cs",
+              "RelativeDocumentMoniker": "API them sua xoa du lieu\\Program.cs",
+              "ToolTip": "D:\\c#\\API\\web api\\API them sua xoa du lieu\\API them sua xoa du lieu\\Program.cs",
+              "RelativeToolTip": "API them sua xoa du lieu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:56:03.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API them sua xoa du lieu.props" />
+</Project>
